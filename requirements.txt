@@ -15,7 +15,7 @@ constantly==15.1.0
 cryptography==2.3.1
 cycler==0.10.0
 Cython==0.28.5
-dask==0.19.4
+dask==2021.10.0
 decorator==4.3.0
 entrypoints==0.2.3
 future==0.17.1
